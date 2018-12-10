@@ -64,6 +64,7 @@
 #![feature(trusted_len)]
 #![feature(vec_remove_item)]
 #![feature(step_trait)]
+#![feature(stmt_expr_attributes)]
 #![feature(integer_atomics)]
 #![feature(test)]
 #![feature(in_band_lifetimes)]
